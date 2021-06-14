@@ -1,3 +1,5 @@
+import axios from "axios"
+
 const Header = (title, date, temp) => {
   const divElmnt = document.createElement('div')
   const spanDate = document.createElement('span')
