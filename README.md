@@ -76,7 +76,21 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+
+    -The DOM is the representation of the data of objects that make up a web page. It is a document that represents the page, and that can directly be changed in the document model. Its a document representation of a web page that can be changed/used to represent the data on the web page
+
 2. What is an event?
+
+    -An Event is the interaction that occurs on a web page, user or OS caused/fired.
+
 3. What is an event listener?
+
+    -An Event listener is a set if cdde that executes when and event is fired. It is the tracking and actions that occur when an event happens
+
 4. Why would we convert a NodeList into an Array?
+
+    -We would want to convert a NodeList to an Array so you could use higher order functions like forEach and .map. Nodelist are array-LIKE 
+
 5. What is a component?
+
+    -A component is a combination of HTML, CSS and/or JS code that is reusable 
